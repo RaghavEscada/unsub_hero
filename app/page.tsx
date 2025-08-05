@@ -32,7 +32,7 @@ const Home = () => {
                 One-Click Unsubscribe
               </h3>
               <p className="text-gray-300" style={{ fontFamily: 'system-ui, -apple-system, sans-serif' }}>
-                Simply forward any unwanted email to unsub@unsubhero.com and we'll handle the rest automatically.
+                Simply forward any unwanted email to unsub@unsubhero.com and we&apos;ll handle the rest automatically.
               </p>
             </div>
 
@@ -58,7 +58,7 @@ const Home = () => {
                 Privacy First
               </h3>
               <p className="text-gray-300" style={{ fontFamily: 'system-ui, -apple-system, sans-serif' }}>
-                Your emails are processed securely and never stored. We only extract what's needed to unsubscribe.
+                Your emails are processed securely and never stored. We only extract what is needed to unsubscribe.
               </p>
             </div>
 
@@ -295,7 +295,7 @@ const Home = () => {
                 ))}
               </div>
               <p className="text-gray-300 mb-6" style={{ fontFamily: 'system-ui, -apple-system, sans-serif' }}>
-                "UnsubHero saved me hours every week. I used to manually unsubscribe from dozens of newsletters. Now I just forward them and they're gone!"
+                &quot;UnsubHero saved me hours every week. I used to manually unsubscribe from dozens of newsletters. Now I just forward them and they&apos;re gone!&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center mr-4">
@@ -316,7 +316,7 @@ const Home = () => {
                 ))}
               </div>
               <p className="text-gray-300 mb-6" style={{ fontFamily: 'system-ui, -apple-system, sans-serif' }}>
-                "The AI is incredibly smart. It finds unsubscribe links that I couldn't even locate myself. 98% success rate is no joke!"
+                &quot;The AI is incredibly smart. It finds unsubscribe links that I couldn&apos;t even locate myself. 98% success rate is no joke!&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-purple-500 rounded-full flex items-center justify-center mr-4">
@@ -337,7 +337,7 @@ const Home = () => {
                 ))}
               </div>
               <p className="text-gray-300 mb-6" style={{ fontFamily: 'system-ui, -apple-system, sans-serif' }}>
-                "Our team uses the shared address and it's been a game-changer. Everyone can contribute to keeping our inboxes clean."
+                &quot;Our team uses the shared address and it&apos;s been a game-changer. Everyone can contribute to keeping our inboxes clean.&quot;
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-green-500 rounded-full flex items-center justify-center mr-4">
